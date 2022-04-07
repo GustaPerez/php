@@ -1,7 +1,7 @@
 <?php
 
-	echo "Olá Mundo burro";
+	echo "Olá Mundo";
 
-	echo "Estou Aprendendo";
+	echo "Estou aprendendo novamente";
 
 ?>
